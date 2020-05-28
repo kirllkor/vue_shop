@@ -25,6 +25,7 @@
     "passport-local": "^1.0.0",
     "uniqid": "^5.2.0",
     "vue": "^2.6.11",
+    "vue-quill-editor": "^3.0.6",
     "vue-router": "^3.1.6",
     "vue-table-with-tree-grid": "^0.2.4"
   },

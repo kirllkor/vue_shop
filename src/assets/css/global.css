@@ -21,3 +21,9 @@ html, body, #app {
 .el-scrollbar {
     max-height: 300px;
 }
+.el-step__title {
+	font-size: 13px;
+}
+.ql-editor{
+min-height: 300px;
+}
